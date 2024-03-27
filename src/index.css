@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.faq{
+    border-bottom:2px solid #F86642 !important;
+   
+}
